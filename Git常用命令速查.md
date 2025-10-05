@@ -1,5 +1,27 @@
 # Git 常用命令速查表
 
+### 使用**Git将代码提交到GitHub**基本流程
+
+1.克隆仓库
+
+在github克隆库（code-ssh)，得到代码地址
+
+2.选定文件存储地方，右键`Git Bash Here`
+
+3.在终端（git bash）输入
+
+```bash
+$ git clone <git复制>
+```
+
+4.点开此文件夹，可以开始改动。之后右键进入终端
+
+```bash
+$ git add <file>
+$ git commit -m " "
+$ git push origin main
+```
+
 ## 基本概念
 | 名称   | 说明                 |
 |--------|----------------------|
@@ -81,7 +103,20 @@ $ git blame <file>      # 以列表方式查看指定文件的提交历史
 $ git reset --hard HEAD     # 撤销工作目录中所有未提交文件的修改
 $ git checkout HEAD <file>  # 撤销指定未提交文件的修改
 ```
+## 提交
+
+push：该单词直译过来就是 “推” 的意思，如果我们本地的代码有了更新，为了保持本地与远程的代码同步，我们就需要把本地的代码推到远程的仓库，代码示例：
+
+```bash
+git push origin master
 ```
+
+pull：该单词直译过来就是 “拉” 的意思，如果我们远程仓库的代码有了更新，同样为了保持本地与远程的代码同步，我们就需要把远程的代码拉到本地，代码示例：
+
+```bash
+git pull origin master
 ```
+
+---
 
 https://blog.csdn.net/black_sneak/article/details/139600633
