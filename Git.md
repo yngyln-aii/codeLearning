@@ -210,6 +210,8 @@ git rebase --continue
 
 ---
 
+## 解决Git分支分叉问题
 
+![image-20251006182939598](C:\Users\HUAWEI\AppData\Roaming\Typora\typora-user-images\image-20251006182939598.png)
 
 https://blog.csdn.net/black_sneak/article/details/139600633
