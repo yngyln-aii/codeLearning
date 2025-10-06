@@ -204,7 +204,7 @@ git rebase --continue
 
 1.**英文**状态下  i为输入，Esc为退出编辑，:wq为保存
 
-2.这里点e![e0049b67d8289ab89a277f42d30b1cdf](E:\WeChat__\xwechat_files\wxid_al8al54za2ms22_d8bb\temp\RWTemp\2025-10\cd567f8c237e8ed331e9aacbe3614d01\e0049b67d8289ab89a277f42d30b1cdf.png)
+2.这里点e![52d2831adfbd322154d6c9c104517bd2](E:\WeChat__\xwechat_files\wxid_al8al54za2ms22_d8bb\temp\RWTemp\2025-10\52d2831adfbd322154d6c9c104517bd2.png)
 
 3.按操作来，别跳
 
@@ -213,5 +213,9 @@ git rebase --continue
 ## 解决Git分支分叉问题
 
 ![image-20251006182939598](C:\Users\HUAWEI\AppData\Roaming\Typora\typora-user-images\image-20251006182939598.png)
+
+---
+
+
 
 https://blog.csdn.net/black_sneak/article/details/139600633
